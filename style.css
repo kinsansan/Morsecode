@@ -1,0 +1,20 @@
+header{
+    background-color: green;
+    padding:5px;
+}
+#description{
+    background-color: honeydew;
+}
+main{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    background-color: honeydew;
+}
+#output{
+    border-radius: 3px;
+}
+#history{
+    padding:1px;
+    background-color: gainsboro;
+}
